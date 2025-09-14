@@ -1,4 +1,4 @@
-# Nanostring CosMx Spatial Transcriptomics — Tumor vs. Control Analysis
+# Analyzing Spatial Transcriptome of_Mouse Tumor(colon cancer metastases in liver)
 
 This project analyzes CosMx spatial transcriptomics data from two slides, each containing two distinct tissue regions, totaling **three tumor** and **one control** sample. The analysis integrates spatial gene expression with cell type annotation via reference single-cell RNA-seq data, aiming to explore spatial clustering and cell type composition across conditions.
 
